@@ -1,0 +1,321 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AdvancedStructureMenu	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^class AdvancedStructureMenu extends TreeMenu$/;"	c
+Auth	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^class Auth extends WebController$/;"	c
+Backend	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^class Backend extends Layout$/;"	c
+Cms	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^class Cms extends WebController$/;"	c
+Dashboard	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Dashboard.php	/^class Dashboard extends WebController$/;"	c
+Error	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Error.php	/^class Error extends WebController$/;"	c
+Favourites	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^class Favourites extends \\it\\inventic\\dea\\data\\storage\\notorm\\Model$/;"	c
+GridPanel	../../projects/jmgr/web-app/jmgr/app/client/ext/GridPanel.php	/^class GridPanel extends Proxy$/;"	c
+HelpdeskLayout	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskLayout.php	/^class HelpdeskLayout extends Layout$/;"	c
+HelpdeskReplyWindow	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskReplyWindow.php	/^class HelpdeskReplyWindow extends Window$/;"	c
+HelpdeskSubjectWindow	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskSubjectWindow.php	/^class HelpdeskSubjectWindow extends Window$/;"	c
+Indexer	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^class Indexer extends CliController$/;"	c
+Intranet	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Intranet.php	/^class Intranet extends WebController$/;"	c
+Krpano	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^class Krpano extends Layout$/;"	c
+Layout	../../projects/jmgr/web-app/jmgr/app/client/Layout.php	/^class Layout$/;"	c
+Layout	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^class Layout extends WebController$/;"	c
+Login	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^class Login extends Layout$/;"	c
+Pages	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^class Pages extends \\it\\inventic\\dea\\data\\storage\\notorm\\Model$/;"	c
+Panos	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^class Panos extends WebController$/;"	c
+Panos	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^class Panos extends \\it\\inventic\\dea\\data\\storage\\notorm\\Model$/;"	c
+Templates	../../projects/jmgr/web-app/jmgr/app/server/models/class.Templates.php	/^class Templates extends \\it\\inventic\\dea\\data\\storage\\notorm\\Model$/;"	c
+Tour	../../projects/jmgr/web-app/jmgr/app/client/layout/Tour.php	/^class Tour extends Layout$/;"	c
+TreeMenu	../../projects/jmgr/web-app/jmgr/app/client/widgets/TreeMenu.php	/^class TreeMenu extends TreePanel$/;"	c
+User	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.User.php	/^class User extends WebController$/;"	c
+User	../../projects/jmgr/web-app/jmgr/app/server/models/class.User.php	/^class User extends \\it\\inventic\\dea\\data\\storage\\notorm\\Model$/;"	c
+__construct	../../projects/jmgr/web-app/jmgr/app/client/ext/GridPanel.php	/^    public function __construct ( $dsProxy )$/;"	f
+__construct	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^    public function __construct ( $url, $title = 'Login form' )$/;"	f
+__construct	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskReplyWindow.php	/^    public function __construct ( )$/;"	f
+__construct	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskSubjectWindow.php	/^    public function __construct ( )$/;"	f
+__construct	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    public function __construct ( $sourceUri, $favouritesWindow = NULL )$/;"	f
+__construct	../../projects/jmgr/web-app/jmgr/app/client/widgets/TreeMenu.php	/^    public function __construct ( $sourceUri = NULL )$/;"	f
+__construct	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Intranet.php	/^    public function __construct ( )$/;"	f
+__construct	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^    public function __construct ( )$/;"	f
+__toString	../../projects/jmgr/web-app/jmgr/app/client/Layout.php	/^    public function __toString ()$/;"	f
+acc	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $acc = new Accordion ();$/;"	v
+acc	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $acc = new Accordion ();$/;"	v
+add	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function add ( $hash, $file, $gps )$/;"	f
+addBlur	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function addBlur ( $hash, $title, $ath, $atv )$/;"	f
+addPanoToPath	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function addPanoToPath ( $panoHash, $pathId )$/;"	f
+addPath	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function addPath ( $title )$/;"	f
+addSpot	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function addSpot ( $hash, $title, $ath, $atv )$/;"	f
+authAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.User.php	/^    public function authAction ( httpRequest $request )$/;"	f
+backendAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^    public function backendAction ( httpRequest $request )$/;"	f
+banner	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^        $banner = new Panel ();$/;"	v
+beforeRender	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^        $this -> beforeRender = function ( $self, $favouritesWindow ) use ( $favouritesWindow )$/;"	j
+blur	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^            $blur = array ();$/;"	v
+blurAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function blurAction ( httpRequest $request )$/;"	f
+blurPanoTree	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $blurPanoTree = new TreeMenu ( );$/;"	v
+blurToggle	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function blurToggle ( $id )$/;"	f
+blurToggleAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function blurToggleAction ( httpRequest $request )$/;"	f
+buttons	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $buttons = new Panel ();$/;"	v
+central	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $central = new TabPanel();$/;"	v
+central	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $central = new TabPanel();$/;"	v
+changeParent	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^    public function changeParent ( $id, $parent_id )$/;"	f
+changeParent	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^    public function changeParent ( $id, $parent_id )$/;"	f
+childs	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^                $childs = $this -> getTreeFor ( $node [ 'favourite_id' ] );$/;"	v
+childs	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^                $childs = $this -> getTreeFor ( $node [ 'static_id' ] );$/;"	v
+childs	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $childs = array ();$/;"	v
+class	../../projects/jmgr/web-app/jmgr/app/client/ext/GridPanel.php	/^    protected $class = 'grid.GridPanel';$/;"	v
+click	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^                            click: function ( e, v )$/;"	j
+cmd	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^            $cmd  = "cd \/home\/workers\/xk\/projects\/jmgr\/web-app\/bin\/krpano\/ ; .\/kmakemultires '{$dir}{$file}'";$/;"	v
+cmsPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $cmsPanel = new Panel ();$/;"	v
+cmsPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^    private function cmsPanel ( $title )$/;"	f
+cmsPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $cmsPanel = new Panel ();$/;"	v
+cmsPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^    private function cmsPanel ( $title )$/;"	f
+dbg	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Intranet.php	/^        $dbg = new \\it\\inventic\\dwt\\core\\Dwt_Ajax_request ( array ( 'url' => '?js=1&raw=1', 'method' => 'GET', 'success' =>$/;"	v
+dbg	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^        $dbg = new \\it\\inventic\\dwt\\core\\Dwt_Ajax_request ( array ( 'url' => '?js=1&raw=1', 'method' => 'GET', 'success' =>$/;"	v
+dir	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^            $dir  = $pano['maindir'];$/;"	v
+editAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function editAction ( httpRequest $request )$/;"	f
+editBaseAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function editBaseAction ( httpRequest $request )$/;"	f
+editor	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $editor = new Panel ();$/;"	v
+example1Action	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^    public function example1Action ( httpRequest $request )$/;"	f
+facebook	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^        $facebook = new \\Facebook(array$/;"	v
+failure	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^	                    failure:function(){$/;"	j
+favButton	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    public function setupListeners ( $favButton = FALSE )$/;"	v
+favMenu	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $favMenu = new AdvancedStructureMenu ( APPBASE . '\/cms\/favourites' );$/;"	v
+favMenu	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $favMenu = new AdvancedStructureMenu ( APPBASE . '\/cms\/favourites' );$/;"	v
+favWin	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $favWin = new Window ();$/;"	v
+favWin	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $favWin = new Window ();$/;"	v
+favourites	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^            $favourites = new Dwt_menu_Menu ( );$/;"	v
+favouritesAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    public function favouritesAction ( httpRequest $request )$/;"	f
+favouritesWindow	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^    public function favouritesWindow ()$/;"	f
+favouritesWindow	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^    public function favouritesWindow ()$/;"	f
+favouritesWindow	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    public function __construct ( $sourceUri, $favouritesWindow = NULL )$/;"	v
+favouritesWindow	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    public function setupToolBar ( $favouritesWindow = NULL )$/;"	v
+fbAsyncInit	../../projects/jmgr/web-app/jmgr/app/client/views/fbc.php	/^      window.fbAsyncInit = function() {$/;"	j
+file	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^            $file = $pano['file'];$/;"	v
+fo1Action	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Error.php	/^    public function fo1Action ( httpRequest $request )$/;"	f
+fo2Action	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Error.php	/^    public function fo2Action ( httpRequest $request )$/;"	f
+fo3Action	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Error.php	/^    public function fo3Action ( httpRequest $request )$/;"	f
+form	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskReplyWindow.php	/^        $form = new FormPanel ( array ( 'frame' => true, 'border' => false, 'autoScroll' => false, 'autoWidth' => true, 'layout' => 'absolute' ) );$/;"	v
+form	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskSubjectWindow.php	/^        $form = new FormPanel ( array ( 'frame' => true, 'border' => false, 'autoScroll' => false, 'autoWidth' => true, 'layout' => 'absolute' ) );$/;"	v
+form	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    public function form ()$/;"	f
+formItems	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskReplyWindow.php	/^        $formItems = new ABSFormBuilder (  );$/;"	v
+formItems	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskSubjectWindow.php	/^        $formItems = new ABSFormBuilder (  );$/;"	v
+formTitle	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^    private $formTitle    = NULL,$/;"	v
+getAll	../../projects/jmgr/web-app/jmgr/app/server/models/class.Templates.php	/^    public function getAll ( )$/;"	f
+getAllNotHash	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getAllNotHash ( $crc )$/;"	f
+getBlurForId	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getBlurForId ( $id )$/;"	f
+getByLogin	../../projects/jmgr/web-app/jmgr/app/server/models/class.User.php	/^    public function getByLogin ( $user )$/;"	f
+getMapSpots	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getMapSpots ( )$/;"	f
+getMenuPanels	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^    private function getMenuPanels ()$/;"	f
+getMenuPanels	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^    private function getMenuPanels ()$/;"	f
+getMetaFor	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getMetaFor ( $id )$/;"	f
+getMetaForId	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getMetaForId ( $id )$/;"	f
+getOneByHash	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getOneByHash ( $crc )$/;"	f
+getOneById	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getOneById ( $id )$/;"	f
+getParentOf	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^    public function getParentOf ( $id )$/;"	f
+getParentOf	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^    public function getParentOf ( $id )$/;"	f
+getPathItems	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getPathItems ( $path_id )$/;"	f
+getPaths	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getPaths ( )$/;"	f
+getReader	../../projects/jmgr/web-app/jmgr/app/client/ext/GridPanel.php	/^    private function getReader ()$/;"	f
+getRhsForId	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getRhsForId ( $id )$/;"	f
+getSpotsForId	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getSpotsForId ( $id )$/;"	f
+getTreeFor	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^    public function getTreeFor ( $parent = NULL )$/;"	f
+getTreeFor	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^    public function getTreeFor ( $parent = NULL )$/;"	f
+getTreeFor	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getTreeFor ( $parent = NULL )$/;"	f
+getWithoutMultires	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getWithoutMultires ( )$/;"	f
+grid	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskLayout.php	/^        $grid = new GridPanel ( APPBASE . '\/helpdesk\/proxy' );$/;"	v
+groupAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^    public function groupAction ( httpRequest $request )$/;"	f
+hello	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^        $hello = new Hello ( );$/;"	v
+id	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        foreach ( $menu as $id => $node )$/;"	v
+id	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        foreach ( $menu as $id => $node )$/;"	v
+indexAction	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^    public function indexAction ( cliRequest $request )$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^    public function indexAction ( httpRequest $request )$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    public function indexAction ( httpRequest $request ) { }$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Dashboard.php	/^    public function indexAction ( httpRequest $request )$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Error.php	/^    public function indexAction ( httpRequest $request )$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Intranet.php	/^    public function indexAction ( httpRequest $request )$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^    public function indexAction ( httpRequest $request )$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function indexAction ( httpRequest $request ) { }$/;"	f
+indexAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.User.php	/^    public function indexAction ( httpRequest $request ) { }$/;"	f
+items	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^            $items = array ();$/;"	v
+loginButton	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^        $loginButton = new Button ( array ( 'text' => 'Log in', 'type' => 'submit', 'formBind' => true ) );$/;"	v
+loginForm	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^        $loginForm = new Dwt_FormPanel ( array ( 'defaultType' => 'textfield', 'frame' => true, 'labelWidth' => 80, 'monitorValid' => true ) );$/;"	v
+loginService	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^            $loginService = NULL;$/;"	v
+loginUrl	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^            $loginUrl = $facebook -> getLoginUrl ();$/;"	v
+loginWindow	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^        $loginWindow = new Window ( array ( 'title' => '' ) );$/;"	v
+logoutAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.User.php	/^    public function logoutAction ( httpRequest $request )$/;"	f
+logoutUrl	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^            $logoutUrl = $facebook -> getLogoutUrl ();$/;"	v
+main	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskLayout.php	/^        $main = new Panel();$/;"	v
+mainPanel	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $mainPanel = new Panel ();$/;"	v
+mapPreview	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $mapPreview = new Panel ();$/;"	v
+mapPreview	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $mapPreview = new Panel ();$/;"	v
+markers	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $markers = $panos -> getMapSpots ();$/;"	v
+menu	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $menu   = array ( 'pano' => 'Panoramy', 'cms' => 'CMS', \/*'photo' => 'Zdjęcia',*\/ 'users' => 'Użytkownicy' );$/;"	v
+menu	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $menu = new Panel ();$/;"	v
+menu	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $menu = new Panel();$/;"	v
+menu	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $menu   = array ( 'pano' => 'Panoramy', 'cms' => 'CMS', 'photo' => 'Zdjęcia', 'users' => 'Użytkownicy' );$/;"	v
+menu	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $menu = new Panel ();$/;"	v
+menu	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $menu = new Panel();$/;"	v
+menu	../../projects/jmgr/web-app/jmgr/app/client/layout/Tour.php	/^        $menu = new TabPanel();$/;"	v
+menuAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    public function menuAction ( httpRequest $request )$/;"	f
+menuPanoTree	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $menuPanoTree = new TreeMenu ( APPBASE . '\/panos\/structure' );$/;"	v
+menuPanoTree	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $menuPanoTree = new TreeMenu ( APPBASE . '\/panos\/structure' );$/;"	v
+menuTree	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $menuTree = new AdvancedStructureMenu ( APPBASE . '\/cms\/menu', $this -> favouritesWindow () );$/;"	v
+menuTree	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $menuTree = new AdvancedStructureMenu ( APPBASE . '\/cms\/menu', $this -> favouritesWindow () );$/;"	v
+meta	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^                $meta = $panos -> getMetaFor ( $item['panos_id'] );$/;"	v
+meta	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^            $meta = $this -> db -> panos_meta ( 'panos_id = ?', $node['panos_id'] ) -> fetch ();$/;"	v
+metaPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $metaPanel = new Panel ();$/;"	v
+method	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^            $method = $id . 'Panel';$/;"	v
+method	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^            $method = $id . 'Panel';$/;"	v
+method	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^                $method = str_replace ( 'Action', '', $method );$/;"	v
+multiresAction	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^    public function multiresAction ( cliRequest $request )$/;"	f
+new	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $new = $this -> db -> panos_spots () -> insert ( array$/;"	v
+new	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $new = $this -> db -> panos_spots_blur () -> insert ( array$/;"	v
+newpathAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function newpathAction ( httpRequest $request )$/;"	f
+node	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^                $node = ( intval ( $request -> param ) == 0 ) ? NULL : intval ( $request -> param );$/;"	v
+nodeArray	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^                $nodeArray = array();$/;"	v
+nodes	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^            $nodes = $this -> db -> favourites ( 'favourite_parent_id = ? AND user_id = ?', $parent, $_SESSION ['USER_ID'] );$/;"	v
+nodes	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^            $nodes = $this -> db -> favourites ( 'favourite_parent_id is null AND user_id = ?', $_SESSION ['USER_ID'] );$/;"	v
+nodes	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^            $nodes = $this -> db -> static ( 'static_parent_id = ?', $parent );$/;"	v
+nodes	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^            $nodes = $this -> db -> static ( 'static_parent_id is null' );$/;"	v
+nodes	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $nodes  = $this -> db -> panos ( 'multires = 2' ) -> order ( 'file ASC' );$/;"	v
+out	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Layout.php	/^        $out = "<h4>Lista dostepnych przykladow uzycia DWT:<\/h4>";$/;"	v
+page	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^        $page = new FavouritesModel();$/;"	v
+page	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^        $page = new PagesModel();$/;"	v
+page	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^        $page = $this -> db -> favourites ( 'favourite_id = ?', $id ) -> fetch ();$/;"	v
+page	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^        $page = $this -> db -> static ( 'static_id = ?', $id ) -> fetch ();$/;"	v
+panels	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $panels = array ();$/;"	v
+panels	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $panels = array ();$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^                $pano = $panos -> getOneById ( $item['panos_id'] );$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> db -> panos ( 'hash = ?', $crc ) -> fetch ();$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> db -> panos ( 'hash = ?', $hash ) -> fetch ();$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> db -> panos ( 'hash = ?', $hash );$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> db -> panos ( 'hash = ?', $targetCrc ) -> fetch ();$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> db -> panos ( 'panos_id = ?', $id ) -> fetch ();$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> db -> panos_meta ( 'panos.hash = ?', $crc ) -> fetch ();$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> getOneByHash ( $hash );$/;"	v
+pano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $pano = $this -> getOneByHash ( $panoHash );$/;"	v
+panoPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $panoPanel = new Panel ();$/;"	v
+panoPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^    private function panoPanel ( $title )$/;"	f
+panoPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $panoPanel = new Panel ();$/;"	v
+panoPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^    private function panoPanel ( $title )$/;"	f
+panoPath	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $panoPath = $this -> db -> panos_paths ( 'panos_paths_id = ?', $path );$/;"	v
+panoPath	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $panoPath = $this -> db -> panos_paths_items ( 'panos_paths_id = ? AND panos_id = ?', $path, $pano );$/;"	v
+panoPathItems	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $panoPathItems = $this -> db -> panos_paths_items ( 'panos_paths_id = ?', $path );$/;"	v
+panoToPathAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function panoToPathAction ( httpRequest $request )$/;"	f
+panoToggle	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function panoToggle ( $crc )$/;"	f
+panoToggleAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function panoToggleAction ( httpRequest $request )$/;"	f
+panos	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^        $panos = new PanosModel ();$/;"	v
+panos	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $panos = new PanosModel ();$/;"	v
+panos	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $panos = new PanosModel();$/;"	v
+parent	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^    public function getTreeFor ( $parent = NULL )$/;"	v
+parent	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^    public function getTreeFor ( $parent = NULL )$/;"	v
+parent	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function getTreeFor ( $parent = NULL )$/;"	v
+parent_id	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^        $page ['favourite_parent_id'] = ( $parent_id == 'null' ) ? NULL : $parent_id;$/;"	v
+parent_id	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^        $page ['static_parent_id'] = ( $parent_id == 'null' ) ? NULL : $parent_id;$/;"	v
+pathAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function pathAction ( httpRequest $request )$/;"	f
+pathBaseAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function pathBaseAction ( httpRequest $request )$/;"	f
+pathGrid	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $pathGrid = new GridPanel ( APPBASE .'\/panos\/paths', array$/;"	v
+pathPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $pathPanel = new Panel ();$/;"	v
+pathPanel	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $pathPanel = new Panel ();$/;"	v
+paths	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^            $paths = array_merge ( $paths, $items );$/;"	v
+paths	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $paths = array ();$/;"	v
+pathsAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function pathsAction ( httpRequest $request )$/;"	f
+photoPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^    private function photoPanel ( $title )$/;"	f
+photoPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^    private function photoPanel ( $title )$/;"	f
+pmeta	../../projects/jmgr/web-app/jmgr/app/client/views/xml.php	/^    <?php foreach ( $path as $ppano ): $pmeta = $panos -> getMetaForId ( $ppano['panos_id'] ); ?>$/;"	v
+pmeta	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^                    $pmeta = $this -> db -> panos_meta ( 'panos_id = ?', $ppano['panos_id'] ) -> fetch ();$/;"	v
+ppano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^                    $ppano = $this -> db -> panos ( 'panos_id = ?', $spot['target_pano_id'] ) -> fetch ();$/;"	v
+preview	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $preview = new Panel ();$/;"	v
+preview	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $preview = new Panel ();$/;"	v
+previewTabs	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $previewTabs = new TabPanel();$/;"	v
+previewTabs	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $previewTabs = new TabPanel();$/;"	v
+properties	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $properties = new Dwt_grid_PropertyGrid ();$/;"	v
+properties	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^        $properties = new Dwt_grid_PropertyGrid ();$/;"	v
+radarAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function radarAction ( httpRequest $request )$/;"	f
+reader	../../projects/jmgr/web-app/jmgr/app/client/ext/GridPanel.php	/^        $reader = new Dwt_data_JsonReader$/;"	v
+remove	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function remove ( $hash )$/;"	f
+removeBlur	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function removeBlur ( $id )$/;"	f
+removeBlurAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function removeBlurAction ( httpRequest $request )$/;"	f
+removePath	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function removePath ( $path )$/;"	f
+removePathPano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function removePathPano ( $path, $pano )$/;"	f
+removeSpot	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function removeSpot ( $id )$/;"	f
+removeSpotAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function removeSpotAction ( httpRequest $request )$/;"	f
+removepathAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function removepathAction ( httpRequest $request )$/;"	f
+removepathpanoAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function removepathpanoAction ( httpRequest $request )$/;"	f
+reorderFavourite	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    private function reorderFavourite ( $args )$/;"	f
+reorderMenu	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    private function reorderMenu ( $args )$/;"	f
+reparentFavourite	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    private function reparentFavourite ( $args )$/;"	f
+reparentMenu	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    private function reparentMenu ( $args )$/;"	f
+rhs	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^                    $rhs = array ();$/;"	v
+rhsPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $rhsPanel = new Panel ();$/;"	v
+rhsPanoTree	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $rhsPanoTree = new TreeMenu ( );$/;"	v
+rootElement	../../projects/jmgr/web-app/jmgr/app/client/widgets/TreeMenu.php	/^        $rootElement = new AsyncTreeNode ( );$/;"	v
+rpcService	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskLayout.php	/^        $rpcService = function ( $url )$/;"	v
+saveAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function saveAction ( httpRequest $request )$/;"	f
+session	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^        $session = $facebook -> getSession ();$/;"	v
+setItems	../../projects/jmgr/web-app/jmgr/app/client/Layout.php	/^    public function setItems ( array $items )$/;"	f
+setItems	../../projects/jmgr/web-app/jmgr/app/client/widgets/TreeMenu.php	/^    public function setItems ( $items )$/;"	f
+setMultiresDone	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function setMultiresDone ( $id, $xml )$/;"	f
+setMultiresInProgress	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function setMultiresInProgress ( $id )$/;"	f
+setRadar	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function setRadar ( $hash, $heading )$/;"	f
+setViewport	../../projects/jmgr/web-app/jmgr/app/client/Layout.php	/^    public function setViewport ( array $items )$/;"	f
+setup	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^    public function setup ()$/;"	f
+setup	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^    public function setup ()$/;"	f
+setup	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^    public function setup ( )$/;"	f
+setup	../../projects/jmgr/web-app/jmgr/app/client/layout/Tour.php	/^    public function setup ( )$/;"	f
+setup	../../projects/jmgr/web-app/jmgr/app/client/layout/helpdesk/HelpdeskLayout.php	/^    public function setup ()$/;"	f
+setupListeners	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    public function setupListeners ( $favButton = FALSE )$/;"	f
+setupToolBar	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    public function setupToolBar ( $favouritesWindow = NULL )$/;"	f
+sourceUri	../../projects/jmgr/web-app/jmgr/app/client/widgets/AdvancedStructureMenu.php	/^    private $sourceUri;$/;"	v
+sourceUri	../../projects/jmgr/web-app/jmgr/app/client/widgets/TreeMenu.php	/^    public function __construct ( $sourceUri = NULL )$/;"	v
+spano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $spano = $this -> db -> panos ( 'hash = ?', $crc ) -> fetch ();$/;"	v
+spano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $spano = $this -> db -> panos_spots ( 'panos_spots_id = ?', $id ) -> fetch ();$/;"	v
+spano	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $spano = $this -> db -> panos_spots_blur ( 'panos_spots_blur_id = ?', $id ) -> fetch ();$/;"	v
+spot	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $spot = $this -> db -> panos_spots ( 'panos_spots_id = ?', $id );$/;"	v
+spot	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $spot = $this -> db -> panos_spots_blur ( 'panos_spots_blur_id = ?', $id );$/;"	v
+spotAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function spotAction ( httpRequest $request )$/;"	f
+spotToggle	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function spotToggle ( $id )$/;"	f
+spotToggleAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function spotToggleAction ( httpRequest $request )$/;"	f
+spots	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^            $spots = array ();$/;"	v
+spotsPanoTree	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^        $spotsPanoTree = new TreeMenu ( );$/;"	v
+structureAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function structureAction ( httpRequest $request )$/;"	f
+success	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^                                        Ext.Ajax.request({ url: "'.APPBASE.'\/panos\/removepathpano", params: { path: r.json.panos_paths_id, pano: r.json.panos_id }, success: function ()$/;"	j
+success	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^                        Ext.Ajax.request({ url: "'.APPBASE.'\/panos\/newpath", params: { title: text }, success: function ()$/;"	j
+success	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^                        Ext.Ajax.request({ url: "'.APPBASE.'\/panos\/removepath", params: { path: currentPath }, success: function ()$/;"	j
+success	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^                Ext.Ajax.request({ url: "'.APPBASE.'\/panos\/panoToPath", params: { pano: currentPano.crc, path: currentPath }, success: function()$/;"	j
+success	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^                        success: function(success, url){$/;"	j
+templatesAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^    public function templatesAction ( httpRequest $request )$/;"	f
+title	../../projects/jmgr/web-app/jmgr/app/client/layout/Login.php	/^    public function __construct ( $url, $title = 'Login form' )$/;"	v
+title	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Intranet.php	/^    private $title = "test";$/;"	v
+toolbarPanel	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $toolbarPanel = new Panel ();$/;"	v
+tpl	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^                $tpl = $tpls[$node['template_id']];$/;"	v
+tpls	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^        $tpls = new TemplatesModel ( );$/;"	v
+tree	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^                $tree = new FavouritesModel ( );$/;"	v
+tree	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Cms.php	/^                $tree = new PagesModel ( );$/;"	v
+tree	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $tree = new PanosModel ( );$/;"	v
+tree	../../projects/jmgr/web-app/jmgr/app/server/models/class.Favourites.php	/^        $tree = array ();$/;"	v
+tree	../../projects/jmgr/web-app/jmgr/app/server/models/class.Pages.php	/^        $tree = array ();$/;"	v
+tree	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^        $tree   = array ();$/;"	v
+uid	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^                $uid = $facebook->getUser();$/;"	v
+updateAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function updateAction ( httpRequest $request )$/;"	f
+updateGps	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function updateGps ( $crc, $lat, $lng )$/;"	f
+updateMeta	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function updateMeta ( $crc, $title, $description, $cat1, $cat2 )$/;"	f
+updateSpot	../../projects/jmgr/web-app/jmgr/app/server/models/class.Panos.php	/^    public function updateSpot ( $id, $targetCrc )$/;"	f
+updateSpotAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function updateSpotAction ( httpRequest $request )$/;"	f
+user	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^                $user = $facebook->api('\/me');$/;"	v
+user	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^        $user    = null;$/;"	v
+user	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.User.php	/^        $user = $user -> getByLogin ( $request -> post ['login'] );$/;"	v
+user	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.User.php	/^        $user = new UserModel ();$/;"	v
+usersPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Backend.php	/^    private function usersPanel ( $title )$/;"	f
+usersPanel	../../projects/jmgr/web-app/jmgr/app/client/layout/Krpano.php	/^    private function usersPanel ( $title )$/;"	f
+var.params.node	../../projects/jmgr/web-app/jmgr/app/client/scripts/treemenu.dd.js	/^        var params = {'node':node.id, 'delta':(position-oldPosition)};$/;"	p
+var.params.node	../../projects/jmgr/web-app/jmgr/app/client/scripts/treemenu.dd.js	/^        var params = {'node':node.id, 'parent':newParent.id, 'position':position};$/;"	p
+view	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Auth.php	/^        $view = new View ( 'fbc' );$/;"	v
+view	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Dashboard.php	/^        $view = new View ( 'dashboard' );$/;"	v
+view	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $view  = new View ( 'xml' );$/;"	v
+view	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $view = new View ( 'krpano' );$/;"	v
+view	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^        $view = new View ( 'path' );$/;"	v
+viewport	../../projects/jmgr/web-app/jmgr/app/client/Layout.php	/^        $viewport = new Dwt_Viewport ( array ( 'layout' => 'fit', 'items' => array ( new Panel ( array ( 'layout' => 'border', 'items' => $items ) ) ) ) );$/;"	v
+window.fbAsyncInit	../../projects/jmgr/web-app/jmgr/app/client/views/fbc.php	/^      window.fbAsyncInit = function() {$/;"	j
+xml	../../projects/jmgr/web-app/jmgr/app/cli/controllers/class.Indexer.php	/^            $xml = file_get_contents ( str_replace ( '.jpg', '.xml', $dir . $file ) );$/;"	v
+xmlAction	../../projects/jmgr/web-app/jmgr/app/server/controllers/class.Panos.php	/^    public function xmlAction ( httpRequest $request )$/;"	f

@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/workers/xk/projects/mmoboost/web-app/htdocs/app/code/local/Level/EnhancedOrders/Block/Sales/Order'
